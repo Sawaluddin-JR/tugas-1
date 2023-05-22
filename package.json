@@ -5,7 +5,7 @@
   "main": "index.js",
   "git repository":"https://github.com/Sawaluddin-JR/tugas-1.git",
   "scripts": {
-    "test": "index.js && README.md"
+    "start": "index.js && README.md"
   },
   "author": "",
   "license": "ISC"
