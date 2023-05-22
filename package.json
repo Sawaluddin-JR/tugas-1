@@ -1,0 +1,12 @@
+{
+  "name": "tugas-1",
+  "version": "1.0.0",
+  "description": "Project tugas pertama saya",
+  "main": "index.js",
+  "git repository":"https://github.com/Sawaluddin-JR/tugas-1.git",
+  "scripts": {
+    "test": "index.js && README.md"
+  },
+  "author": "",
+  "license": "ISC"
+}
